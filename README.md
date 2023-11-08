@@ -8,8 +8,7 @@ Welcome to the Tips Prediction with Regression project repository! In this proje
 
 1. [Introduction](#introduction)
 2. [Dataset](#dataset)
-3. [Installation](#installation)
-4. [Conclusion](#conclusion)
+3. [Conclusion](#conclusion)
 
 ## Introduction
 
